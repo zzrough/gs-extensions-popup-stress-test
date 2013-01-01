@@ -1,4 +1,4 @@
 gs-extensions-popup-stress-test
 ===============================
 
-A dumm y gnome-shell extension to stress test the system status popups w.r.t to its memleak
+A quick and dirty gnome-shell extension that uses system icons to show off a memleak

@@ -1,0 +1,9 @@
+{
+  "id": "popup-stress-test",
+  "uuid": "popup-stress-test@gs-extensions.zzrough.org",
+  "name": "Popup Stress Test",
+  "description": "A popup stress test to try to resolve the high memory retention.",
+  "shell-version": ["3.6", "3.7.3"],
+  "url": "https://github.com/zzrough/gs-extensions-popup-stress-test"
+}
+
